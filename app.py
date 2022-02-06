@@ -6,4 +6,4 @@ def Hello_world():
     return 'Hello, World!!!'
 
 if __name__ == 'main':
-    Hello_world()
+    app.run()
